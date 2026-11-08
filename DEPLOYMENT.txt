@@ -1,0 +1,19 @@
+DEPLOYMENT QUICK START
+
+1. Upload the entire keotech folder to your web host's public web directory.
+2. Keep the five HTML files in the same directory and keep the assets/ folder beside them.
+3. Set index.html as the default homepage if your host asks.
+4. Confirm the domain's HTTPS certificate is active.
+5. Test navigation, portfolio filters, service pop-ups and the pre-filled enquiry form on desktop and mobile.
+
+SERVICE POP-UPS
+
+The Home and Services pages contain service detail pop-ups. The Request this service action opens contact.html with that service selected in the enquiry form. The pop-ups and form pre-selection work in the browser without a server.
+
+CONTACT FORM
+
+The enquiry form prepares an email in the visitor's default email application addressed to info@kaotechdesigns.com. It is not connected to a server or CRM. Connect a secure form endpoint before expecting submissions to be stored online.
+
+IMAGES
+
+All page photography and the leadership avatar are included locally in assets/images/. Keep this folder with the HTML files when deploying. The website no longer depends on external image URLs. Google Fonts are optional and use system font fallbacks when unavailable.

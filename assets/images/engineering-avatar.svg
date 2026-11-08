@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-labelledby="title desc">
+  <title id="title">Kaotech engineering leadership avatar</title>
+  <desc id="desc">A professional illustrated engineer wearing a blue safety helmet and navy work jacket.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf7fc"/><stop offset="1" stop-color="#b9dff0"/></linearGradient>
+    <linearGradient id="jacket" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#126fa4"/><stop offset="1" stop-color="#0a1d30"/></linearGradient>
+    <linearGradient id="helmet" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#51b9e8"/><stop offset="1" stop-color="#087fbd"/></linearGradient>
+  </defs>
+  <rect width="600" height="760" fill="url(#bg)"/>
+  <circle cx="300" cy="275" r="218" fill="#ffffff" opacity=".42"/>
+  <path d="M78 760c13-158 97-246 222-246s209 88 222 246z" fill="url(#jacket)"/>
+  <path d="M222 523l78 105 78-105 48 35-58 202H232l-58-202z" fill="#f6fbfd"/>
+  <path d="M244 534l56 94 56-94 31 21-44 205H257l-44-205z" fill="#087fbd"/>
+  <rect x="265" y="450" width="70" height="100" rx="28" fill="#c9825e"/>
+  <ellipse cx="300" cy="326" rx="132" ry="157" fill="#d99b75"/>
+  <path d="M168 315c3-108 59-177 132-177 78 0 130 67 132 176-36-19-61-56-68-100-36 33-102 54-196 47z" fill="#152a3a"/>
+  <path d="M172 251c8-94 64-154 128-154 70 0 125 59 129 154l-21 18H193z" fill="url(#helmet)"/>
+  <path d="M155 254c37-22 78-31 145-31 64 0 110 10 145 31v22H155z" fill="#075f91"/>
+  <path d="M191 305c19-14 44-14 62 0M347 305c19-14 44-14 62 0" fill="none" stroke="#183044" stroke-width="9" stroke-linecap="round"/>
+  <path d="M278 362c13 10 31 10 44 0" fill="none" stroke="#9d5b48" stroke-width="7" stroke-linecap="round"/>
+  <path d="M250 407c27 22 73 22 100 0" fill="none" stroke="#8d4e42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M91 760c18-105 70-175 147-203l62 72 62-72c77 28 129 98 147 203" fill="none" stroke="#54b8e3" stroke-width="4" opacity=".5"/>
+  <g fill="#087fbd" opacity=".16"><circle cx="75" cy="113" r="9"/><circle cx="518" cy="170" r="13"/><circle cx="507" cy="618" r="8"/><circle cx="92" cy="631" r="14"/></g>
+  <path d="M54 690h78M468 72h78M495 100h51" stroke="#087fbd" stroke-width="3" opacity=".35"/>
+</svg>
